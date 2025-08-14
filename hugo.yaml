@@ -1,0 +1,41 @@
+baseURL: https://founderrecovery.org/
+languageCode: en-us
+title: FounderRecovery
+theme: ["PaperMod"]
+enableRobotsTXT: true
+pluralizeListTitles: false
+
+outputs:
+  home:
+   - HTML
+   - JSON
+
+caches:
+  images:
+    dir: :cacheDir/images
+
+menu:
+  main:
+  - identifier: home
+    name: Home
+    url: /
+    weight: 10
+  - identifier: search
+    name: 🔎
+    url: /search
+    weight: 40
+
+params:
+  title: "Founder Recovery"
+  description: "Post Startup Direction"
+  hideFooter: true
+  ShowCodeCopyButtons: true
+
+  footer:
+    hideCopyright: true
+
+  profileMode:
+    enabled: false
+
+  label:
+    icon: "/logo.svg"
