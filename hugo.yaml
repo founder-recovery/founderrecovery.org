@@ -20,6 +20,10 @@ menu:
     name: Home
     url: /
     weight: 10
+  - identifier: about
+    name: About
+    url: /about
+    weight: 11
   - identifier: search
     name: 🔎
     url: /search
@@ -30,6 +34,8 @@ params:
   description: "Post Startup Direction"
   hideFooter: true
   ShowCodeCopyButtons: true
+  defaultTheme: light
+  disableThemeToggle: true
 
   footer:
     hideCopyright: true
@@ -39,3 +45,4 @@ params:
 
   label:
     icon: "/logo.svg"
+    iconHeight: 50
