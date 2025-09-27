@@ -1,6 +1,6 @@
 baseURL: https://founderrecovery.org/
 languageCode: en-us
-title: FounderRecovery
+title: "Founder Recovery"
 theme: ["PaperMod"]
 enableRobotsTXT: true
 pluralizeListTitles: false

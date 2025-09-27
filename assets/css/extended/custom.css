@@ -93,3 +93,8 @@ div.investment div.investment-logo img {
     width: 60px;
     margin: auto;    
 }
+
+div.logo a {
+    font-size: 0;
+    margin-top: 10px;
+}
