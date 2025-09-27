@@ -4,7 +4,7 @@ layout: single
 hideMeta: true
 description: "Founder Recovery provides an organized affinity network to support former founders as they decelerate and decide what’s next."
 cover:
-  image: logo.png
+  image: square.png
   relative: true
 ---
 
