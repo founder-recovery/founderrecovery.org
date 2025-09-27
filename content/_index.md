@@ -3,6 +3,9 @@ title: Founder Recovery
 layout: single
 hideMeta: true
 description: "Founder Recovery provides an organized affinity network to support former founders as they decelerate and decide what’s next."
+cover:
+  image: logo.png
+  relative: true
 ---
 
 *Founder Recovery* provides an organized affinity network to support former founders as they decelerate, reintegrate themselves into their lives, re-prioritize what's important to them, and decide what's next. For now, this comes in the form of moderated bi-monthly dinners in 🗽 NYC, giving former founders a confidential space to refine what might come next.
