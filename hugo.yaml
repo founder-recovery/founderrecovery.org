@@ -37,6 +37,9 @@ params:
   defaultTheme: light
   disableThemeToggle: true
 
+  images:
+  - square.png
+
   footer:
     hideCopyright: true
 
